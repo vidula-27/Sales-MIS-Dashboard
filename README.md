@@ -25,7 +25,7 @@ The dashboard provides a comprehensive view of sales performance across products
 - Power BI (dashboard design and visualization)
 
 ## 📊 Dashboard Preview
-!(Sales MIS dashboard.png)
+[!(Sales MIS dashboard.png)](https://github.com/vidula-27/Sales-MIS-Dashboard/blob/main/Sales%20MIS%20dashboard.png)
 
 ## 🚀 How to Use
 1. Clone the repository
