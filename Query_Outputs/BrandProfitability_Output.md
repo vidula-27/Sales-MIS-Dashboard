@@ -1,0 +1,10 @@
+--7. Which brands are the most profitable?
+
+Brand	Net Revenue	Profit	Profit Margin %
+TechOne	3180025.98	854136.61	26.86
+FreshMart	2242700.72	553024.91	24.66
+HomeEase	2240114.41	500168.14	22.33
+DailyCare	2144769.38	443387.35	20.67
+ProMax	1887875.22	376044.66	19.92
+Nova	2231107.55	412241.05	18.48
+OfficePro	741945.70	133303.85	17.97
