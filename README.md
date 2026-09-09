@@ -40,32 +40,39 @@ This project also includes SQL scripts to answer key business questions:
 
 - [Top 10 Products](SQL_Queries/Top10Products.sql)  
   ![Top 10 Products Output](Query_Outputs/Top10Products.png)
+  💡 Work Desk is the highest revenue generator at ₹2.24M.
 
 - [Bottom 10 Products](SQL_Queries/Bottom10Products.sql)  
-  ![Bottom 10 Products Output](Query_Outputs/Bottom10Products.png)
+  ![Bottom 10 Products Output](Query_Outputs/Bottom10Products.png
+  💡 Stationery items like Stapler and Copier Paper contribute the least revenue.
 
 - [Store Revenue](SQL_Queries/StoreRevenue.sql)  
   ![Store Revenue Output](Query_Outputs/StoreRevenue.png)
+  💡 Hyderabad Store leads with ₹1.76M, while Pune Store lags at ₹1.22M.
 
 - [High Sales, Low Stock](SQL_Queries/HighSalesLowStock.sql)  
   ![High Sales Low Stock Output](Query_Outputs/HighSalesLowStock.png)
+  💡 Fast‑moving products like Study Desk and Table Fan show critically low closing stock.
 
 - [Category Revenue & Profit](SQL_Queries/CategoryRevenueProfit.sql)  
   ![Category Revenue Profit Output](Query_Outputs/CategoryRevenueProfit.png)
+  💡 Furniture dominates revenue at ₹6.29M with strong profit margins (~23%).
 
 - [Store Target Variance](SQL_Queries/StoreTargetVariance.sql)  
   ![Store Target Variance Output](Query_Outputs/StoreTargetVariance.png)
+  💡 Several stores underperform, with variance dropping below ‑90% against targets.
 
 - [Brand Profitability](SQL_Queries/BrandProfitability.sql)  
   ![Brand Profitability Output](Query_Outputs/BrandProfitability.png)
+  💡 TechOne brand delivers the highest margin at 26.8%.
 
 - [Customer Revenue](SQL_Queries/CustomerRevenue.sql)  
   ![Customer Revenue Output](Query_Outputs/CustomerRevenue.png)
+  💡 Retail customers generate the majority of revenue (~₹9.25M).
 
 - [Payment Mode](SQL_Queries/PaymentMode.sql)  
   ![Payment Mode Output](Query_Outputs/PaymentMode.png)
-
-
+  💡 UPI is the most popular payment mode with 698 transactions.
 
 ## 🎯 Career Context
 With 4.8 years of experience as a Data Analyst (SQL, Excel, Power BI), I am currently on a career break and preparing to re-enter the workforce as a MIS Analyst / Data Analyst / MIS Executive. 
