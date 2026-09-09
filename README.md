@@ -36,15 +36,35 @@ The dashboard provides a comprehensive view of sales performance across products
 ## 📑 SQL Business Queries
 This project also includes SQL scripts to answer key business questions:
 
-1. Top 10 products by net revenue
-2. Bottom 10 products by net revenue
-3. Highest and lowest revenue-generating stores
-4. Products with high sales but critically low closing stock
-5. Product categories with highest revenue, profit, and margin
-6. Top and bottom 3 stores based on sales target variance %
-7. Most profitable brands
-8. Customer type generating the most revenue
-9. Most commonly used payment mode
+## 📑 SQL Business Queries with Outputs
+
+- [Top 10 Products](SQL_Queries/Top10Products.sql)  
+  ![Top 10 Products Output](Query_Outputs/Top10Products.png)
+
+- [Bottom 10 Products](SQL_Queries/Bottom10Products.sql)  
+  ![Bottom 10 Products Output](Query_Outputs/Bottom10Products.png)
+
+- [Store Revenue](SQL_Queries/StoreRevenue.sql)  
+  ![Store Revenue Output](Query_Outputs/StoreRevenue.png)
+
+- [High Sales, Low Stock](SQL_Queries/HighSalesLowStock.sql)  
+  ![High Sales Low Stock Output](Query_Outputs/HighSalesLowStock.png)
+
+- [Category Revenue & Profit](SQL_Queries/CategoryRevenueProfit.sql)  
+  ![Category Revenue Profit Output](Query_Outputs/CategoryRevenueProfit.png)
+
+- [Store Target Variance](SQL_Queries/StoreTargetVariance.sql)  
+  ![Store Target Variance Output](Query_Outputs/StoreTargetVariance.png)
+
+- [Brand Profitability](SQL_Queries/BrandProfitability.sql)  
+  ![Brand Profitability Output](Query_Outputs/BrandProfitability.png)
+
+- [Customer Revenue](SQL_Queries/CustomerRevenue.sql)  
+  ![Customer Revenue Output](Query_Outputs/CustomerRevenue.png)
+
+- [Payment Mode](SQL_Queries/PaymentMode.sql)  
+  ![Payment Mode Output](Query_Outputs/PaymentMode.png)
+
 
 
 ## 🎯 Career Context
